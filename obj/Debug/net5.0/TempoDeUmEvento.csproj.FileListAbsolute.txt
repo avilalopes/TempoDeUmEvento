@@ -1,0 +1,16 @@
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.exe
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.deps.json
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.runtimeconfig.json
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.runtimeconfig.dev.json
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.dll
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\ref\TempoDeUmEvento.dll
+D:\git\TempoDeUmEvento\bin\Debug\net5.0\TempoDeUmEvento.pdb
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.csprojAssemblyReference.cache
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.AssemblyInfoInputs.cache
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.AssemblyInfo.cs
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.csproj.CoreCompileInputs.cache
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.dll
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\ref\TempoDeUmEvento.dll
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.pdb
+D:\git\TempoDeUmEvento\obj\Debug\net5.0\TempoDeUmEvento.genruntimeconfig.cache
